@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  cursor: default;
+  font-family: 'Bebas Neue', cursive;
+}
+
+#description {
+  padding-bottom: 20px;
+}
+
+#tooltip {
+  position: absolute;
+  visibility: hidden;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px #000;
+  background-color: #FABD59;
+  padding: 10px;
+  width: 200px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+#footer {
+  font-size: 1rem;
+  font-family: 'Covered By Your Grace', cursive;
+  color: black;
+}
